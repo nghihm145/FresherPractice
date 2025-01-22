@@ -11,7 +11,7 @@ public class baitap2 {
         if (snt <= 1) {
             sont = false;
         }else{
-            for(int i = 2; i <= snt; i++){
+            for(int i = 2; i < snt; i++){
                 if(snt % i == 0){
                     sont = false;
                     break;

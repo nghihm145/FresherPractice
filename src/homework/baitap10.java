@@ -6,7 +6,7 @@ package homework;
  */
 public class baitap10 {
     public static void main(String[] args) {
-        int a =2;
+        int a =3;
         int b = 15;
         while(a != b){
             if(a > b){
